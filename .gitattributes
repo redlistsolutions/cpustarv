@@ -1,0 +1,7 @@
+# Keep imported legacy source and linker input byte-for-byte, including CRLF.
+*.BAS -text
+*.inp -text
+*.286 binary
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

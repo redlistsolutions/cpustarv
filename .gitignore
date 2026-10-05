@@ -1,0 +1,19 @@
+# Generated intermediate files; the supplied .286 executable is tracked.
+*.[oO][bB][jJ]
+*.[lL][sS][tT]
+*.[mM][aA][pP]
+*.[dD][bB][gG]
+*.[sS][yY][mM]
+*.log
+*.tmp
+*.bak
+
+# Local settings and credentials
+.idea/
+.vscode/
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+.DS_Store
